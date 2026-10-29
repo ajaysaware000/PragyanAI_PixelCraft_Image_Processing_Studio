@@ -205,23 +205,6 @@ Open this address in your browser to use PixelCraft Image Processing Studio.
 5. View the original and processed images.
 6. Download the processed image or generated output when the relevant option is available.
 
-## 📸 Screenshots
-
-Add screenshots of the running application to demonstrate its interface and functionality.
-
-### Main Application Interface
-
-![PixelCraft Image Processing Studio application preview](screenshots/application-preview.png)
-
-*Replace this example image path with the path to your actual screenshot.*
-
-Recommended additional screenshots:
-
-- Grayscale and black-and-white conversion.
-- Pencil sketch effect.
-- Image sharpening and resizing.
-- Multiple image gallery.
-- Processed image download.
 
 ## 🔄 Application Workflow
 
@@ -298,13 +281,7 @@ Check that the image uses a supported format and is a valid image file. If the i
 
 **Ajay Saware**
 
-- GitHub: [ajaysaware000](https://github.com/ajaysaware000)
 
-## 📄 License
-
-This project is intended for educational and learning purposes.
-
-No open-source license has been specified yet. If you plan to distribute the project publicly, consider choosing an appropriate license, such as the MIT License, and adding a `LICENSE` file to the repository.
 
 ## 🙌 Acknowledgements
 
